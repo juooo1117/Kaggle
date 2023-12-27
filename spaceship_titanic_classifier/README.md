@@ -1,4 +1,4 @@
-# spaceship_titanic_classifier
+# spaceshiptitanic_classifier
 
 Spaceship Titanic
 
